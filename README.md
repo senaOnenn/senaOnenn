@@ -15,7 +15,7 @@
 
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=senaOnenn&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 
-I am a passionate **Computer Engineering student** and a dedicated **Software Engineer at 42 Istanbul**. My professional focus lies at the intersection of low-level hardware and high-level robotic intelligence. I specialize in **System Programming**, **Embedded Architecture**, and **Autonomous Vehicle Algorithms**.
+I am a passionate **Computer Engineering student** and a dedicated **Software Engineer student at 42 Istanbul**. My professional focus lies at the intersection of low-level hardware and high-level robotic intelligence. I specialize in **System Programming**, **Embedded Architecture**, and **Autonomous Vehicle Algorithms**.
 
 Currently, I am leading a technical team as the **Captain for TEKNOFEST 2027**, where I architect integrated UAV-UGV (İHA-İKA) logistics systems.
 
