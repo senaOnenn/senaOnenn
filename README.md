@@ -1,7 +1,7 @@
 # <p align="center">Hey there! I'm Sena Önen <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35px"></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Software+Engineer+at+42+Istanbul;Focused+on+Embedded+%26+Autonomous+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Software+Engineer+student+at+42+Istanbul;Focused+on+Embedded+%26+Autonomous+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
