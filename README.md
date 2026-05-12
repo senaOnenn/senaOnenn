@@ -1,7 +1,6 @@
-```html
 <h1 align="center">
   Hey there! I'm Sena Önen
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35px">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.gif" width="35px">
 </h1>
 
 <p align="center">
@@ -12,7 +11,6 @@
   <a href="https://linkedin.com/in/sena-onen-84b068245">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:eminesena.3318@gmail.com">
     <img src="https://img.shields.io/badge/Email-eminesena.3318%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -23,7 +21,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=senaOnenn&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=senaOnenn&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 I am a passionate **Computer Engineering student** and a dedicated **Software Engineering student at 42 Istanbul**.
@@ -44,17 +42,11 @@ Currently, I am leading a technical team as the **Captain for TEKNOFEST 2027**, 
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
-
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Embedded_C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
-
   <img src="https://img.shields.io/badge/ROS2-%2322314E.svg?&style=for-the-badge&logo=ros&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -100,7 +92,7 @@ Focus Area: Signal Processing
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=senaOnenn&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senaOnenn&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -108,4 +100,3 @@ Focus Area: Signal Processing
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=senaOnenn&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-```
