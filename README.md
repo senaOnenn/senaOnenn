@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Software+Engineering+Student+at+42+Istanbul;Focused+on+Embedded+%26+Autonomous+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Software+Engineering+@+42+Istanbul;Focused+on+Embedded+%26+Autonomous+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,10 +19,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senaOnenn&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 I am a passionate **Computer Engineering student** and a dedicated **Software Engineering student at 42 Istanbul**.
 
@@ -82,21 +78,3 @@ B.Sc. in Computer Engineering
 ### AGH University of Krakow
 Erasmus+ Exchange Program  
 Focus Area: Signal Processing
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=senaOnenn&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senaOnenn&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=senaOnenn&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
