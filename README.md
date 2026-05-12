@@ -78,3 +78,15 @@ B.Sc. in Computer Engineering
 ### AGH University of Krakow
 Erasmus+ Exchange Program  
 Focus Area: Signal Processing
+
+---
+
+## 📊 GitHub Activity & Contributions
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=senaOnenn&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=senaOnenn&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
