@@ -73,7 +73,7 @@ Project-based training focused on C programming and system architecture.
 
 ### Sivas Cumhuriyet University
 B.Sc. in Computer Engineering  
-**GPA:** 3.04 / 4.00
+
 
 ### AGH University of Krakow
 Erasmus+ Exchange Program  
